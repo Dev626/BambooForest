@@ -1,0 +1,22 @@
+{
+  "name": "bambooforest",
+  "version": "1.0.0",
+  "description": "Bot for PandaLovesThings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev626/BambooForest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev626/BambooForest/issues"
+  },
+  "homepage": "https://github.com/Dev626/BambooForest#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
